@@ -1,0 +1,5 @@
+# Robot Framework output files
+output.xml
+log.html
+report.html
+selenium-screenshot-*.png
