@@ -1,1 +1,5 @@
 robotframework>=7.0
+robotframework-browser>=18.0.0
+robotframework-seleniumlibrary>=6.0.0
+robotframework-requests>=0.9.0
+robotframework-screencaplibrary>=1.6.0
