@@ -3,3 +3,23 @@ output.xml
 log.html
 report.html
 selenium-screenshot-*.png
+playwright-log.txt
+
+# Screenshots directory
+screenshots/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
